@@ -1,2 +1,2 @@
 # CodingTest
-SWEA, BaekJoon, Programmers
+SWEA | BaekJoon | Programmers
