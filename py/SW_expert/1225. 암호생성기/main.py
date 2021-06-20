@@ -25,7 +25,7 @@ for t in range(1, tc+1):
             break
 
     res_list = list(map(str, num_deque))
-    ## str.join() 파라미터는 str 타입만 허용
+    ## str.join() 파라미터는 str list 타입만 허용
     res = " ".join(res_list)
     print("#{} {}".format(t, res))
 
