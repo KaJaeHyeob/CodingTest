@@ -19,6 +19,7 @@ def solution(numbers):
 
     char_list = [i for i in numbers]
     for i in range(1, len(char_list) + 1):
+        ## 순서가 상관있으므로 순열 생성
         num_list.extend(list(permutations(char_list, i)))
     num_list = [int("".join(i)) for i in num_list]
     num_list = list(set(num_list))
