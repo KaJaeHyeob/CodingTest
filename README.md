@@ -1,2 +1,4 @@
 # CodingTest
-SWEA | BaekJoon | Programmers
+
+Language : C++ | Python    
+Platform : SWEA | BaekJoon | Programmers    
